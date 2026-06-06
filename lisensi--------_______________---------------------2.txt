@@ -1,4 +1,16 @@
+PC
 34-64-A9-2B-96-E7  #Pc Kamar  
 28-C2-DD-65-65-4E  #Laptop karaoke
 90-DE-80-7F-AE-1A  #Pc Belakang
 00-1A-7D-DA-71-13  #Laptop karaoke
+E0-AD-47-41-88-23  #Pc Kamar  
+
+
+
+
+ANDROID
+2F-30-56-CE-6D-54  #Android Box depan 
+B5-F6-8C-63-29-00  #HP Iwan 1
+82-F8-DB-9F-DC-1C  #HP Dik Leni
+B8-4F-49-8F-D7-E0  #Tablet Iwan
+F2-99-7B-53-42-3F  #Android Box2
