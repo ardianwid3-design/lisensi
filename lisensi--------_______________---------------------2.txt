@@ -17,7 +17,7 @@ F2-99-7B-53-42-3F  #Android Box2
 
 DEVICE ID
 a9129bde7d55212b      #Android TV Box 1
-B44bb9b13b0652a75      #HP Iwan 1
+44bb9b13b0652a75      #HP Iwan 1
 32a581cadb8f854f      #Tablet 1
 2b4be8f7eaedf5b7      #Tablet 1
 Bbac32004bf3cdbd6      #Tablet Vava 1
