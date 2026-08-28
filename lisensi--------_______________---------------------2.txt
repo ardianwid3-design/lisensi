@@ -4,6 +4,7 @@ PC
 90-DE-80-7F-AE-1A  #Pc Belakang
 00-1A-7D-DA-71-13  #Laptop karaoke
 E0-AD-47-41-88-23  #Pc Kamar  
+30-5A-3A-84-B9-36  #Laptop RW
 
 
 
