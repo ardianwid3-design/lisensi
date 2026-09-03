@@ -21,7 +21,7 @@ a9129bde7d55212b      #Android TV Box 1
 44bb9b13b0652a75      #HP Iwan 1
 32a581cadb8f854f      #Tablet 1
 2b4be8f7eaedf5b7      #Tablet 1
-bac32004bf3cdbd6      #Tablet Vava 1
+bardi-bac32004bf3cdbd6      #Tablet Vava 1
 B3e1978f1ec6852ee      #Tablet Vava 2
 e333cbe04820fd42      #Dik Leni
 
